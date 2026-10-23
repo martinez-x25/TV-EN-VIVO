@@ -1,0 +1,2216 @@
+{
+  "name": "Canales",
+  "author": "",
+  "groups": [
+    {
+      "name": "ARGENTINA",
+      "stations": [
+        {
+          "name": "AMERICA TV",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_wl/AmericaTV.mpd",
+          "image": "http://static.tvar.io/imagenes/americatv.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"PXr8Q9q5QNaZthRmskU2nw\",\"k\":\"cStRZf-ZAVbmyeWAsLTfWQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "C5N",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_wl/C5N.mpd",
+          "image": "http://static.tvar.io/imagenes/c5n.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"75itOkpbn27a6IXov0UNPA\",\"k\":\"hhhzxsaetm3wr8MDSgKnlg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EL TRECE",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_wl/ArtearHD.mpd",
+          "image": "http://static.tvar.io/imagenes/eltrece.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SqjsEPkrISwMuqqOBZG0aA\",\"k\":\"F5ha6qww5i5trUX034TMLA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TELEFE ( FHD )",
+          "url": "http://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd",
+          "image": "http://static.tvar.io/imagenes/telefe.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"adCK15UJL8WdvfsZRCTdkg\",\"k\":\"pzlItE6Sku7eUMDGVDAYYA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TV PUBLICA",
+          "url": "http://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd",
+          "image": "http://static.tvar.io/imagenes/tvp.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"WJ9bb0r-wLM2LNa-KrHrNg\",\"k\":\"bWhfMVFzDKakvndlpG0wpQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CANAL 9",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_wl/Canal9.mpd",
+          "image": "http://static.tvar.io/imagenes/elnueve.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Pd9iv0TmjwamrbgQGZ33Ew\",\"k\":\"Ks4VtP--cJQP3wTPl-EU5w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TN NOTICIAS",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_wl/TodoNoticias.mpd",
+          "image": "http://static.tvar.io/imagenes/tn.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"d11BE9dr6sgjHpLtcy4n1g\",\"k\":\"CFSla-ZVv6kFXvDkmA9GdA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "A24",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_wl/America24.mpd",
+          "image": "http://static.tvar.io/imagenes/a24.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"cRM-qOGUEyOiGstQkMXEaQ\",\"k\":\"9GF45HWB1BAAilBe7tdZ_g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CRONICA HD",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_wl/CronicaTV.mpd",
+          "image": "http://static.tvar.io/imagenes/cronica.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M97Tf--qbD1oeODVVd-v_Q\",\"k\":\"ngJMEK8g8kCh6jW5TRR_KA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CANAL 26",
+          "url": "http://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_wl/26_TV_HD.mpd",
+          "image": "http://static.tvar.io/imagenes/canal26.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UuVcMpjy4Hy_5Z60j_2pQA\",\"k\":\"D7WRahQYjl7tVq-xEOgq9w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "INFANTILES",
+      "stations": [
+        {
+          "name": "KIDOO",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_wl/Kidoo.mpd",
+          "image": "https://cdn.futurenew.xyz/images/kidoo.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"nQc_M5UJU-uk6Lt_PVwijw\",\"k\":\"mvr_DnbYGCuPt5TxV5rv1A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "PLIM PLIM TV",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_wl/Plim_Plim.mpd",
+          "image": "https://cdn.futurenew.xyz/images/plimplim_tv.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"WzTsW-mn05Tl9JpepVrE9g\",\"k\":\"PozKb5RaOkyZhK5SjCQHuQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DREAMWORKS",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_wl/Dreamworks.mpd",
+          "image": "https://cdn.futurenew.xyz/images/newdreamworks.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"OQ_lqzySIpv3BCyg7saZqA\",\"k\":\"M6C4SYifZ4xgFWCT3Aelyg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CARTOONITO",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc_wl/Boomerang.mpd",
+          "image": "https://cdn.futurenew.xyz/images/newcartoonito.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2w6X6WIF1UVHGsmCREzz4w\",\"k\":\"kLi_bRyM-HYfdUcPGC490Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CARTOON NETWORK",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_wl/CartoonNetwork.mpd",
+          "image": "https://cdn.futurenew.xyz/images/cartoonnetwork.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5360743HrYGR3HHQT4_Dsw\",\"k\":\"tPk5ipJh0R_NYBis_6uU0Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DISCOVERY KIDS",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_wl/Discovery_Kids.mpd",
+          "image": "https://cdn.futurenew.xyz/images/discoverykids.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CiyEatkOtlxpezHhsHKLUw\",\"k\":\"nMaQepX-DEJBpxA_JWUPZA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DISNEY CHANNEL",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_wl/DisneyChannelHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/disneychannel.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"E4mB7V91UnIyWTr0ySyQBw\",\"k\":\"DwXHi9fovD6eD3CMFCTzSw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DISNEY JR",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_wl/DisneyJr.mpd",
+          "image": "https://cdn.futurenew.xyz/images/disneyjr.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YyQpzZljp2-QlRFF2ksi5g\",\"k\":\"vMhSeTzz-FoeCs0FCYU-Rw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "NICKELODEON",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_wl/Nickelodeon.mpd",
+          "image": "https://cdn.futurenew.xyz/images/nick_new.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"iaa-MqNyJVR1wD2RC-Hq6A\",\"k\":\"REasmHIEVwu-u47lpJRZAw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "NICK JR",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_wl/Nick_Jr.mpd",
+          "image": "https://cdn.futurenew.xyz/images/nick_jr_2024.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jh-ytZudg8EUZstUsxko4g\",\"k\":\"O_GejYlW2sqR2v-3RvCLsQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "BABY TV",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_wl/BabyTV.mpd",
+          "image": "https://cdn.futurenew.xyz/images/babytv.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tsyNSnlZvMGEE5J_GkmKfA\",\"k\":\"GVuU0v8zV-k9JOKWw5tDJg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TOONCAST",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_wl/Tooncast.mpd",
+          "image": "https://cdn.futurenew.xyz/images/tooncast.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"G58L24fkWcyaAvFqWPseig\",\"k\":\"4RLnHxuZHWHdJnGeLekDtg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "PAKA PAKA",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_wl/PAKA_PAKA.mpd",
+          "image": "https://cdn.futurenew.xyz/images/pakapaka.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6cQhp_IFygjmLr48pA40Mw\",\"k\":\"ZfoZfcL0cnOcHYT8tfiAzw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DISNEY +",
+      "stations": [
+        {
+          "name": "DISNEY + 1",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WOYryWxcau__hZhtMuueQNr/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY + 2",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WM9Mm-UrUgxlSbM46woNpPw/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY + 3",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WPDvz-nN6tdcwmZlC9FHSum/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY + 4",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WPc9Qa2aFEQk9G4YU_JoQUM/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY + 5",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WOtf2G_LZ2f8pfTe816ZlnB/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY+ 6",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WNavu9MgZBPbDeDyDgg0lWW/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        },
+        {
+          "name": "DISNEY+ 7",
+          "url": "http://viplatin.lat:80/play/M45bPeLZoH9QjPdOS5OtrhtLmAPJSBPfxCVNZfGR9WPF3PyXtiWNM1MwAvDczT0N/ts",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdR5ET78XykWRTHDtDy6PfAtDQW0huDGxZ0LVsfmYAVy5BKEL71Vaiu7o&s=10"
+        }
+      ]
+    },
+    {
+      "name": "MLS ( Eventos )",
+      "stations": [
+        {
+          "name": "MLS 1",
+          "url": "http://miom.datamesh.quest:2095/live/StreaxPlay/AnpntUw7fd/142402.ts",
+          "image": "https://contentmasters.app/logos/mls.png"
+        },
+        {
+          "name": "MLS 2",
+          "url": "http://miom.datamesh.quest:2095/live/StreaxPlay/AnpntUw7fd/468849.ts",
+          "image": "https://contentmasters.app/logos/mls.png"
+        },
+        {
+          "name": "MLS 3",
+          "url": "http://miom.datamesh.quest:2095/live/StreaxPlay/AnpntUw7fd/468850.ts",
+          "image": "https://contentmasters.app/logos/mls.png"
+        },
+        {
+          "name": "MLS 4",
+          "url": "http://miom.datamesh.quest:2095/live/StreaxPlay/AnpntUw7fd/468849.ts",
+          "image": "https://contentmasters.app/logos/mls.png"
+        }
+      ]
+    },
+    {
+      "name": "LPF PLAY",
+      "stations": [
+        {
+          "name": "LPF 1",
+          "url": "http://cdn.tvar.io/lpf1.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 2",
+          "url": "http://cdn.tvar.io/lpf2.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 3",
+          "url": "http://cdn.tvar.io/lpf3.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 4",
+          "url": "http://cdn.tvar.io/lpf4.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 5",
+          "url": "http://cdn.tvar.io/lpf5.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 6",
+          "url": "http://cdn.tvar.io/lpf6.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 7",
+          "url": "http://cdn.tvar.io/lpf7.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 8",
+          "url": "http://cdn.tvar.io/lpf8.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 9",
+          "url": "http://cdn.tvar.io/lpf9.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 10",
+          "url": "http://cdn.tvar.io/lpf10.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 11",
+          "url": "http://cdn.tvar.io/lpf11.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 12",
+          "url": "http://cdn.tvar.io/lpf12.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 13",
+          "url": "https://emitiendoenvivo.com/lpf/13.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 14",
+          "url": "http://cdn.tvar.io/lpf14.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 15",
+          "url": "http://cdn.tvar.io/lpf15.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 16",
+          "url": "http://cdn.tvar.io/lpf16.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 17",
+          "url": "http://cdn.tvar.io/lpf17.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        },
+        {
+          "name": "LPF 18",
+          "url": "http://cdn.tvar.io/lpf18.m3u8",
+          "image": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+        }
+      ]
+    },
+    {
+      "name": "ESPN ( * )",
+      "stations": [
+        {
+          "name": "ESPN PREMIUM ( FHD ) ",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd",
+          "image": "http://static.tvar.io/imagenes/espnpremium.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xQKJLgN6nzSCcUeysk5Czw\",\"k\":\"JTG9NL7GwOj6Tgeu2yYa3g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_wl/ESPN2HD.mpd",
+          "image": "http://static.tvar.io/imagenes/espn.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0Hn_o3V-gzVhH8SL5rpH_w\",\"k\":\"BQWdHLIbZwilXpwm-zji8w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 2",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_wl/ESPN2_Arg.mpd",
+          "image": "http://static.tvar.io/imagenes/espn2.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5uq1PPjqliuZnFnCmFlqZQ\",\"k\":\"EMEDrnb5liDWb6dfLAMwKg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 3",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_wl/ESPN3.mpd",
+          "image": "http://static.tvar.io/imagenes/espn3.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"3u7Q9ExrReBk9NUGRIboIQ\",\"k\":\"v4nO65NWTdxgO6av2Mkmag\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 4",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_wl/ESPNHD.mpd",
+          "image": "http://static.tvar.io/imagenes/espn4.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"0CmB5vrqzvSckP2wU6tkHQ\",\"k\":\"ZF4TYk6TOEGx6jXNobVb0Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 5",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_wl/ESPN4.mpd",
+          "image": "http://static.tvar.io/imagenes/espn5.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z2Jt48rdm_rwuFwGqv0s0A\",\"k\":\"vCqn2eY1Tkl57mKw7FWVxQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 6",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_wl/FoxSports3_UY.mpd",
+          "image": "http://static.tvar.io/imagenes/espn6.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_aybRfGZWbhI9JjI7-FdEg\",\"k\":\"wqbnrKvDcO95L_rMXiYQqQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "ESPN 7",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_wl/FoxSports2_UY.mpd",
+          "image": "http://static.tvar.io/imagenes/espn7.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_aybRfGZWbhI9JjI7-FdEg\",\"k\":\"wqbnrKvDcO95L_rMXiYQqQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DAZN",
+      "stations": [
+        {
+          "name": "DAZN LA LIGA",
+          "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd",
+          "image": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Vdb7mHIe21uoEDqc8hBx1A\",\"k\":\"SiFY2TLjFf_hP3LkSq1Ffg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "DAZN LA LIGA 2",
+          "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd",
+          "image": "https://i.ibb.co/6JvQMZHd/images.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"z3Q92bEw-21UJQ1fkLV5ZQ\",\"k\":\"OeDB-ZOKcRSiY7t15xUEKw\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "F1",
+          "url": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
+          "image": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"UFYWOA3nBpNuST_dHCXQtg\",\"k\":\"WzE_ScY8aCI26rM1dADiFg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "F1 ( 2 )",
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+          "image": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YJ15WQWQRwUCjvVGUwGa9w\",\"k\":\"LHkethHlen1_IDAivBubow\"}],\"type\":\"temporary\"}"
+        }
+      ]
+    },
+    {
+      "name": "DIRECTV SPORTS",
+      "stations": [
+        {
+          "name": "DSPORT ( FHD )",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/DSports_1/SA_Live_dash_enc_wl/DSports_1.mpd",
+          "image": "https://i.ibb.co/Zzx3bz1F/Direc-TVSports2018.webp",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"htGZBEKfeLr5jPH9SBxDDg\",\"k\":\"UikZdzKpo-EJJksnK9eC8g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DSPORT 2 ( FHD )",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/DSports_2/SA_Live_dash_enc_wl/DSports_2.mpd",
+          "image": "https://i.ibb.co/357S9W8n/DSPORTS2-01.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M4SMJio8yMDrizTNuWkfBA\",\"k\":\"_Y5SrXRc7J5iJjkooQ86vQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DSPORT PLUS",
+          "url": "https://b5cce558f58c4843a8264d282ebce3ec.mediatailor.us-east-1.amazonaws.com/v1/dash/dffceb859a31f14d0ed059ef6b4e2e4d850e60b1/live_1071/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"fb1q9eDlMJGWQvU_S5r3dQ\",\"k\":\"SNcEDTxe31IRX9Cy7eO9sA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "DSPORT PLUS ( 2 )",
+          "url": "http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"g_gcTMFEOZFUPeTiLup1hg\",\"k\":\"3f18plPW81VD2O2zxojiDw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EVENTOS 1",
+          "url": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"FAwt2GpLM6uqwl0rMf1E1Q\",\"k\":\"v4TlQi8iL5l0BdTQuc6NXA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EVENTOS 2",
+          "url": "https://1069-aws.vrioott.com/1069_DIRECTV_SPORTS_OCC_6_DASH/manifest.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"tABWR0DQOs2Q3znEEWSDzQ\",\"k\":\"grq9xI8N5N8YdDF8iz5sgg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EVENTOS 3",
+          "url": "https://1067-aws.vrioott.com/1067_DIRECTV_SPORTS_OCC_4_DASH/manifest.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qYvDAxm7OFCVnYVVNxKcuA\",\"k\":\"avC51ECWGpzvtLP19it6ng\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EVENTOS 4",
+          "url": "https://1070-aws.vrioott.com/1070_DIRECTV_SPORTS_OCC_7_DASH/manifest.mpd",
+          "image": "https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"MyORNGVFNzWMr2JCJjOKDQ\",\"k\":\"E8seeDZlrCib2zedGTnn3g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://www.directvgo.com",
+            "Referer": "https://www.directvgo.com/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "DEPORTES ( G )",
+      "stations": [
+        {
+          "name": "EVENTOS",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc_wl/Eventos1HD.mpd",
+          "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_bmWNSpFszm4bz6zNq82xg\",\"k\":\"IbhUPBOyuH4OCXYCpx8_kQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EVENTOS 2",
+          "url": "http://chromecast.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc_wl/Eventos_2_HD.mpd",
+          "image": "https://i.ibb.co/YLjMyFx/evento30hd.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"AsX0bexMP-rd5vWwsMbptg\",\"k\":\"iRhvjCUPgpG0IRrBsr3BAw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TNT SPORTS ( FHD ) ",
+          "url": "http://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
+          "image": "http://static.tvar.io/imagenes/tntsports.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"n7VjAbx2h7rwsaYd75oAeg\",\"k\":\"lH0ilLpnJWgn6Ol_Jn5x4A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TYC SPORTS ( FHD )",
+          "url": "http://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_wl/TyCSport.mpd",
+          "image": "http://static.tvar.io/imagenes/tycsports.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Cx5oJTUPobwAMvjzYofgBg\",\"k\":\"EfxUCkU50Y-RzUA6XtQihA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TYC SPORTS Internacional",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_wl/TyC_Internacional.mpd",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TyCSports2026.svg/revision/latest?cb=20260601172151&path-prefix=es",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"54gOGw1QyjJGRrnXPXgeHw\",\"k\":\"K-8teRLuUjENQhwdd1bQcg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FOX SPORTS HD",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_wl/FoxSports.mpd",
+          "image": "http://static.tvar.io/imagenes/fs1.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"N3MLAKX5IITEeoEp6EVZ8w\",\"k\":\"ouIKRaBX_058C8KtSebz5Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FOX SPORTS 2 HD",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_wl/FoxSports2HD.mpd",
+          "image": "http://static.tvar.io/imagenes/fs2.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Gwq2gO-UoYQhhfp4qDDL1w\",\"k\":\"IxKatVcq7adgfJIGVcDb6g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FOX SPORTS 3 HD",
+          "url": "http://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_wl/FoxSports3HD.mpd",
+          "image": "http://static.tvar.io/imagenes/fs3.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Rim9CuMMDnKvER-5SPraHA\",\"k\":\"eGQVTGeedp5_Fkugg8j60w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "INTERIOR",
+      "stations": [
+        {
+          "name": "CANAL 13 RIO CUARTO",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+          "image": "https://cdn.futurenew.xyz/images/canal_13_rio_cuarto.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_x5vWDafoEV2cOtFLLSfig\",\"k\":\"SlsAWn29OP4AxQ0n-iOrCg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "RETROX TV",
+          "url": "https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8",
+          "image": "https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png"
+        },
+        {
+          "name": "Canal 10 - Junin Tv SA",
+          "url": "https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8",
+          "image": "https://www.canaldiez.com.ar/wp-content/uploads/2022/09/canal-diez_55.png",
+          "headers": {
+            "Origin": "https://vmf.edge-apps.net",
+            "Referer": "https://vmf.edge-apps.net/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "9 Santa Cruz",
+          "url": "https://5f700d5b2c46f.streamlock.net/canal9santacruz/canal9santacruz/playlist.m3u8",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/9/96/Nueve_Santa_Cruz_%28Logo_vertical_-_2016%29.png/revision/latest/scale-to-width-down/250?cb=20250603224422",
+          "headers": {
+            "Origin": "https://videocloud.instream.audio:2000",
+            "Referer": "https://videocloud.instream.audio:2000/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CVI NOTICIAS",
+          "url": "https://panel.host-live.com:19360/8078/8078.m3u8",
+          "image": "https://cvinoticias.com/wp-content/uploads/2023/04/cropped-cropped-cropped-cropped-cropped-3-1.png"
+        },
+        {
+          "name": "Radio y Televisión Riojana ",
+          "url": "https://streaming7.locucionar.com:19360/canal9larioja/canal9larioja.m3u8",
+          "image": "https://i.ibb.co/8gB50BSg/canal9.jpg"
+        },
+        {
+          "name": "CANAL PAMPA 3",
+          "url": "https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8",
+          "image": "https://i.postimg.cc/8PMm8fbR/IMG-20250520-WA0024.jpg"
+        },
+        {
+          "name": "Canal 5 Colon: CATS TV",
+          "url": "http://45.161.132.19/CatsHDSRT/index.m3u8",
+          "image": "https://i.ibb.co/FkkTqnZm/Whats-App-Image-2025-08-27-at-11-51-34-AM.jpg"
+        },
+        {
+          "name": "CANAL 13 DIGIAL",
+          "url": "https://stream.arcast.net:4443/mp/mp/chunklist_w1597139934.m3u8",
+          "image": "https://i.ibb.co/xKjQtxNG/canl13digital.jpg"
+        },
+        {
+          "name": "Canal 12 Puerto Madryn",
+          "url": "https://nd106.republicaservers.com:4433/hls/c7827/index.m3u8",
+          "image": "https://canal12web.com/wp-content/uploads/2025/09/Logo-Canal-12-OK-200px.png"
+        },
+        {
+          "name": "CANAL 9 HD LITORAL",
+          "url": "https://stream.arcast.live:443/canal9litoralhd/canal9litoralhd/chunklist_w1967933953.m3u8",
+          "image": "https://tinyuri.com/3b5a5c2f"
+        },
+        {
+          "name": "Canal 4 San Juan",
+          "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w160698258.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Canal_4_San_Juan_%28Logo_2007%29.png"
+        },
+        {
+          "name": "E 4 ",
+          "url": "https://5cd577a3dd8ec.streamlock.net/CAMARAS/live3/playlist.m3u8",
+          "image": "https://yt3.googleusercontent.com/PaQf44erinPrsPK1Se_oQ-Ghl5sz5jQMxKeXUn2PhohG_f44TOGB2KQLh2Fp7lsP3PZUDjp-3_g=s900-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Aire de Santa Fe",
+          "url": "https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8",
+          "image": "https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png"
+        },
+        {
+          "name": "CANAL 7 JUJUY",
+          "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+          "image": "https://i.ibb.co/ZGSTNsG/canal7jujuy.png"
+        },
+        {
+          "name": "BRAGADO TV",
+          "url": "https://vivo.solumedia.com:19360/bragadato/bragadato.m3u8",
+          "image": "https://www.bragadotv.com.ar/images/custom/logo-social.jpg"
+        },
+        {
+          "name": "CHAMAME TV CORRIENTES",
+          "url": "https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8",
+          "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
+        },
+        {
+          "name": "San Luis",
+          "url": "https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w1882365317.m3u8",
+          "image": "https://www.sanluisctv.com.ar/assets/images/logo-sl-ctv-2-240x240.png"
+        },
+        {
+          "name": "San Luis+",
+          "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
+          "image": "https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp"
+        },
+        {
+          "name": "TELEDIARIO ",
+          "url": "https://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index.mpd",
+          "image": "https://i.ytimg.com/vi/tD9ADnQ2Qjw/maxresdefault.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_x5vWDafoEV2cOtFLLSfig\",\"k\":\"SlsAWn29OP4AxQ0n-iOrCg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://player.sensa.com.ar",
+            "Referer": "https://player.sensa.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+          }
+        },
+        {
+          "name": "CANAL NUEVE TELEVIDA",
+          "url": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8",
+          "image": "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online-696x392.png"
+        },
+        {
+          "name": "CANAL 10 RIO NEGRO",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/SA_Live_dash_enc_wl/Canal10_Rio_Negro.mpd",
+          "image": "https://yt3.googleusercontent.com/gqFWJUXKdyAcG7jELHWEW_69zr2744xjkdweBwZ7ixrX9aIJuxpXcngm1pwUCYWgIqwPoPK_0Q=s900-c-k-c0x00ffffff-no-rj",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"59qZ5jwkmPCCa1DgHNF6Tg\",\"k\":\"5-FLugkGJNtt6rDxo8IqEg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 10 CBA",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_wl/Canal10_CBA_HD.mpd",
+          "image": "https://static.wikia.nocookie.net/doblaje/images/0/03/Canal_10_C%C3%B3rdoba_actual_del_2025_.webp/revision/latest?cb=20251004230919&path-prefix=es",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NAg_E-Nd7HekOy6_dSkezQ\",\"k\":\"EiODPx2FqcsgBhqgllPuNQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 3 Rosario",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_wl/Canal_3_Rosario.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7pE1hYOeha70O6DZ-YRnSA\",\"k\":\"LpHFPH5ZFrG0spF8LsMKtA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "MULTIVISION FEDERAL",
+          "url": "https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8",
+          "image": "https://i.ibb.co/RGTnqxn6/hq720.jpg"
+        },
+        {
+          "name": "Canal 7 Neuquen",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc_wl/Telefe_Neuquen.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jMe0aZ_9FBQrdCqI6O9f4w\",\"k\":\"NOSjLY_YujQwJR_APQMeGg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 7 Santiago del Estero",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/SA_Live_dash_enc_wl/Canal7_SDE.mpd",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/9/97/Canal_7_Santiago_del_Estero_%28Logo_2000%29.png/revision/latest?cb=20210525204404&path-prefix=es",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aRKDSgbX3om2PKQ8QONbgA\",\"k\":\"ix7EKjgwtUW5dkcYicKoFw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal Siete Bahía Blanca",
+          "url": "https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc_wl/Canal7_Bahia_Blanca.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"5MV1ktRBlBlaVyICfnEowQ\",\"k\":\"QI-Ipb5goAdliO_RdaWseg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 9 Nordeste",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc_wl/CH_9_Resistencia.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kJPgeTR7v_6yMPID9lB2hg\",\"k\":\"wyEmnOV0S_-LjHYQl8Zp7w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 10 Tucuman",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_wl/Ch10_Tucuman.mpd",
+          "image": "https://i.ibb.co/vvknBFv/canal10-tucuman.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kUMt1gJ-ix6ua-PBFUl46g\",\"k\":\"UY3Yp2oGAtSQmIbkTfz92g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CANAL 12 CORDOBA",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc_wl/Canal_12_CBA.mpd",
+          "image": "https://i.ibb.co/60sFBfY/og-image.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"hFM2mx0P9ma8Gqz7jm21pA\",\"k\":\"l5b-OO8y4eS1PvyS2rOcfQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal C cordoba",
+          "url": "https://chromecast.cvattv.com.ar/live/c5eds/Canal_C/SA_Live_dash_enc_wl/Canal_C.mpd",
+          "image": "https://infonegocios.info/content/companies/logos/81031_Canal%20C.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mRy6m1XpGk0Pcf4-cxi5NQ\",\"k\":\"z1BpFvPqOyWCoJgVgyahlw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CBA24",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/CBA24/SA_Live_dash_enc_wl/CBA24.mpd",
+          "image": "https://i.ibb.co/K2sJwVC/canal-u.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bQkr3nfLTz0Ei7ceyq2f6g\",\"k\":\"LvPwAn6BPFFVuFBQTWCnAQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "America Tucuman",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/America_Tucuman/SA_Live_dash_enc_wl/America_Tucuman.mpd",
+          "image": "https://i.ibb.co/B6ZHDXy/america-tucuman.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_vx_MRN_nHDeTtMCo46y4Q\",\"k\":\"LkC0vTOH5TOF7XiEZQlHmw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "El Ocho TV Tucuman",
+          "url": "https://g4.mc-hor.transport.edge-access.net/a05/ngrp:elochotv-100168_all/Playlist.m3u8?sense=true",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png",
+          "headers": {
+            "Origin": "https://vmf.edge-apps.net",
+            "Referer": "https://vmf.edge-apps.net/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 9 Mendoza",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_9_Mendoza/SA_Live_dash_enc_wl/Canal_9_Mendoza.mpd",
+          "image": "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-9-Televida-en-vivo-Online-696x392.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yM_8iP_DU8hVZarsXX7aCw\",\"k\":\"dmj5oYCjgKHbEwFYuRpstw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Canal 10 CBA",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc_wl/Canal10_CBA_HD.mpd",
+          "image": "https://static.wikia.nocookie.net/doblaje/images/0/03/Canal_10_C%C3%B3rdoba_actual_del_2025_.webp/revision/latest?cb=20251004230919&path-prefix=es",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"NAg_E-Nd7HekOy6_dSkezQ\",\"k\":\"EiODPx2FqcsgBhqgllPuNQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos El Valle",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_El_Valle/SA_Live_dash_enc_wl/Somos_El_Valle.mpd",
+          "image": "https://static.wikia.nocookie.net/logopedia/images/5/55/Somoselvalle.jpg/revision/latest?cb=20160903125456&path-prefix=es",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"oAQtzO2D1DdoDRKb27ve-Q\",\"k\":\"HqF0DB7OdYdPH0rLjf_C6w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos La Plata",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Somos_La_Plata/SA_Live_dash_enc_wl/Somos_La_Plata.mpd",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSNoh-IlnEG1YvhT0YsB8IWevwPGG7b16D-g&s",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qcMe9eg0nfjpIK5ieQJnQg\",\"k\":\"xXOWN3ODctY1fbEKlTE2dg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos Rosario",
+          "url": "https://chromecast.cvattv.com.ar/live/c5eds/Somos_Rosario/SA_Live_dash_enc_wl/Somos_Rosario.mpd",
+          "image": "https://yt3.googleusercontent.com/ytc/AIdro_kclxk9Qk2INM1AVSg2H3Abex3rstBQbXoyq6uQCrdj7A=s900-c-k-c0x00ffffff-no-rj",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"LKlc_5p3ga2PKIkGNJa8zA\",\"k\":\"CQHTvrsML-jbOHCiH3NrXQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos Mar del Plata",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc_wl/Canal_Ciudad_MDQ.mpd",
+          "image": "https://i.ibb.co/Mpxwj59/somos-mar-del-plata.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZsHzuoR26CL8zlsdaO5g4g\",\"k\":\"bKPEtyCA0WshprFc0jTawg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos Salta jujuy",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_Salta/SA_Live_dash_enc_wl/Somos_Salta.mpd",
+          "image": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yHu0z6GLcGxWin4wGTgVCw\",\"k\":\"LNPjt5peIGLWdYXetLJQEQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Somos Norte Salta",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Somos_Norte/SA_Live_dash_enc_wl/Somos_Norte.mpd",
+          "image": "https://i.ibb.co/qnXjFGd/somos-salta.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"r88Uq3l26j3gFwrIBAYbBA\",\"k\":\"VTHSij-k3ntlnqYokQlSYA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TELEFE SANTAFE",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc_wl/Canal_13_SFE.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"CVH3AaZ_aqPisZk66uaCFA\",\"k\":\"v61UaXRp8RWSlbR5MKA5AA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Telefe Cordoba",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc_wl/Canal_8_CBA.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"xIAth2G-9_1vgw2Z67ROMA\",\"k\":\"_5uFKOi41D2uVKqE5M4LrA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Telefe Rosario",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc_wl/Canal_5_Rosario.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"F7PqWweXn3GcnB8pxWagTQ\",\"k\":\"t-7mUirRq7zuLAltVdHBdQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "El Siete TV",
+          "url": "https://g3.vxral-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/canal7mendoza-100056_720p.m3u8",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp",
+          "headers": {
+            "Origin": "https://vmf.edge-apps.net",
+            "Referer": "https://vmf.edge-apps.net/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CINE / PELICULAS",
+      "stations": [
+        {
+          "name": "Cine De Horror.",
+          "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-64e6e2f04a5e9b4cedc6d52b/variant.m3u8?x-plex-token=h13Chtz1_y_Zqfb7-Gf_&x-plex-advertising-identifier=&x-plex-client-identifier=h5oibqiu1s8t14bgpty0vcnd&x-plex-playback-id=p_a064c553-fd77-43f9-badc-4fccbe203b74&x-plex-playback-session-id=cffd2395-89c8-4bbd-8be1-ac9259bbbb30&x-plex-session-id=0162c335-a5a1-4af6-890b-66b695b2ddef&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=142.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1920x945%2C1920x1080&x-plex-device-vendor=&x-plex-version=4.160.0&x-plex-provider-streaming-start=1787418265&url=bdc4d67ffe38ccde0d4b7cd55b978862-3adf91d2392ca801fbd102dc1a68428de4872eedb110397b81b858351e712004d5f5d98646dc9edc08fb0a25967b01b139ab225c1659f999622e0a9913c12d0f0e2f30a413b072aaab20876cc115d1cf02bb13772a00ac7e7d8f0318c44fd6345c63b11399afddddfa3262eb6450ee6b58f97efda65ebde6f158d3c69c3b212327bddb77e7e41fb7326e1e40bf52b94852bc889c75914c4dc78ac66b754a743778941d0196ae3b8f58def63cccb4cb74b1e0405a623b34e9b9c9384cdcbbcbfc1db958fb631484bd97ba85de5c27f74a8a253bdcf87a8cee6c5ea9665e906e42bb0727edbb9871d6716e8b427689deceed2b8782256dd820d53ef58feb50e99137e4ae741de70e080ab0136ac6d9f87de4d6820653395b1acb95d42624e22165316e0fb14d9ca413307ee54c4d8da4802959a218ba5ca86ac141bdc21e9d46ecf41b81602fdd26a0dca2401ed0ce0e03a4ff2767427801d0004621d2d29561441bb2a71c2687ded20aea2fd936b6403098969065cb9fa24cac994bd868e82825283a5ac3825aa14854c81c1ecf1e90858b85e4e1b5219556028ee3b54f4f64359239df353c42073e23ea6c856816b9a6abd1fb6f81d0e37ac9fc6491148699d9bc81db2dfc873439313c9e320e2d85f4bbf54988aefd7963bb234fdf9514b06a222525cdf10388a585a198a9700eb49f93f049e2f5ed0272772aadac9f5be8693539fa100a68de80649f6040d46953fcfc1150e5d15db1425f2f13c84d4eaf64c78e04d90f1d93d3e03a465cbc149b2b17da5db6b7821d9c2ff5f2ff5db0d1b28115d9c6fd764324ab1d2e80b1b855244afda579982d4fb467ddfb715fe3df5b46181b7adb72de31c66469d037ac196aaa90a7e00563277d4bc8baa1890fc2c345b24966cbf6bd66883d4036253c665a0b3044cdd269cf0ada8e5c6aecdeee7db980c1486dae6c03f31aa775125eac6e830fa88d9b5221820aadcc1c80707e4fa335cd50be31ef67df12a83f4b498fa22fea1becd01b922f63b5694582a5b0896c0c7e4938006597ace1ba229ce4ba9c1ee62021a6c97e89103f2fce5f90f6246ae12409bd126ea23bad421fd383e08a886608a7c90072e1fea5db55026d79da68116faf1718d2d99af3aa73b86a898d5254cfc2f45ebe240d3de89a8403e0204341d68a948f6301f8957e2408d58029d7a0982b5e6eb8119d3b738e15e43cdc39e81cd45865632867243648b9ca618ca6b49915aa4d9d62f1ca2d9e4f752eee5b71eb97fab7409b7f9e044e3f5d5e50c48757d329fa5cc30c93bd27604b0bc75f251b44ac99669878f9becfc7d369c52dcd9a26c352f8a1f5f382234b533c07a451753d7d971b2df7840141400017f15052c591a0c31bf0f2e985aed03900b2c7b14db6d2af1ab5a44136aa34fe806ab2e393434c9e5926c6542c66342e3af8c16a2137f6172a83838a84674a353eb3caa6dcbbef3de9a56cee382f825a418398886814693ac08295376c3e8919f161a2e66790514d29ac855f967593453b7996535e46499b2860350abc936c4fb8b93ae0f81faa584ba152191ff5e75f3c2a6c7ea60f2d52aaf1fd508d7c71dd740225345f637b36f4fd9446fa2cef85a6467d13ca473ae3cd62545e35e6aa9737acb28df6fc3c118d12aec0e78ac205c27b635b1c6c2b0e73899349ff46f76bb92dcc4f4544bafbaa0b8cee0765e6c518d567709f0e1df8f58e805ac7c7da54418b2bfe3639860ccc1281f13b9999aecd749115ed00cfa868b6aa76a40f4974905c657824d0858c1f00b8482d9518ef6a8760bdba55e9e32cbfafc096b107bf862018adb29f82fea415a25643d2d9fc6b9ef34c08646f77c86064a1bc1efe6c1d8acd8bbec34ea2a5af0ba9e860708e3c63ad43f7a2d6f072084d4780766c5c869ed61a5539907ad3bb4a426f1ec4aa6fffdc7eff1009b3ff28ae6e8a7ef0e8cfb91ad95c28e9edb82f940f6253bfa1b976262731a66ceaedb7691f86303c78b8a061da34a20ced583133a2fda7ff457532293a6caeb50885b965848c716d2fbc5d27085a1098262b5d4c2961e9fed5f885bcbe7cf12e84c4ddf53dc6c38055d7f15450c533aac5a79821441ef73137d7325a515ec0b101ec03c97bc28890aacd08d25eab05fd02bdd76dccea3e4924870a914c65cef55d4e75424bb1953c23434bf19da90d021ea67f7e4f926a0f32fe812e402d3423dacbfd54d08ee154fecb6e0bbb4d593fe1f6b0217a23fbfbe68805587495d017aeef20c783628b08d22e72fd9cc7098489179362791a1f882aff75ecddedf5401b2596112fe2cde1f3c13e",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAglLWPZEHw_Hw1dJvIu1DMc4DDKykRy-YKIwSzw0FAWh322C6WRic7EM&s=10"
+        },
+        {
+          "name": "Orbit TV",
+          "url": "https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8",
+          "image": "https://serenotv.com/wp-content/uploads/2022/01/Canal-orbit-tv-en-vivo.jpg"
+        },
+        {
+          "name": "Mega Cine TV",
+          "url": "https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8",
+          "image": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Ffec8403b690ee3d6bb645b6e8d9e1e85070e865bc1b4ad14e8af28261e6ce1ad.png"
+        },
+        {
+          "name": "ZONA ACCION 24/7",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-209634/tracks-v1a1/mono.ts.m3u8",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOwL7_LXJ_IeX3kWSj7EBjVzGht8SLhmfqx0KOoPHVI4cm6MMJf33TVkI&s=10"
+        },
+        {
+          "name": "GRJNGO",
+          "url": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+          "image": "https://cdn.futurenew.xyz/images/grjngo.png"
+        },
+        {
+          "name": "GOLDEN EDGE",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+          "image": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Golden_Edge._SL500_FMpng_.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"rky8NNSxZF9seyZBDd57WA\",\"k\":\"ZHR4zTvQ37PoICSSlsIwlg\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "USA NETWORK",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_wl/USA_Network.mpd",
+          "image": "https://cdn.futurenew.xyz/images/usanetwork.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"J-Ijqwe1jCyWjnMEwUzXXg\",\"k\":\"bcTJZA8nd42iEWicghrezQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "GOLDEN",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_wl/Golden.mpd",
+          "image": "https://cdn.futurenew.xyz/images/golden.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9s14TltTIIJh3YGjRZCEAA\",\"k\":\"sSX9d9fYh1LcBF5X7c-ZQw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "GOLDEN PLUS",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
+          "image": "https://i.ibb.co/NyNYXrx/golden-plus.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7VhJ0z4HYG1hGNf7JrkM0A\",\"k\":\"Y2cOV-cDU8pSb7B6jX3bew\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "GOLDEN PREMIER",
+          "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
+          "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsAAAA7AAWrWiQkAAAPuSURBVEhL1ZdZiJVlGICP+zoaqbmgqFgNoRCkF+WWLSaSQwlZNnqh7S5ZLrihaBFpJs4kLql1EWTRTYpgNyqBG+qFptGNSBe2XCXihoVn/uPz/L7/4TAcZ44LYi88/N/3nXeZb3u/d3L/G0kaGvrDTPgUVgerYDYMDLW7Jzh9BOpgge1CQ0PL+Clnm7FBMA++gOr46c4ER1NhRZIkHWMoV0iS1oz1IGh72u1jOIdOB8aXwbQYuj3BwbtQG137I6EeFsE6OAr/wXH4EDqE3iSYnRrdqmA4BmZGuyN8BS6l4yegUIZTMCBs3oaxtisWlqwtRptYxha029HeC7NgPFyBckEzTsMDhUKhBd+N2Be3olnBwH19Ktqfg7N9DC5B5vxjcMm/hX+hNPjmsB0Kb9iuSFCuj7+4H1yAnrAHdLrFVQjVVBgbBb/Cb8Ev0C181Ida08JJ9cSuts13DuyCakhgP8vfKlWsULD5BJpfbpR6w5xob4LFMAOc7dRUKYR+FWyHH+B7+C76Lv+M0HkPBtluUlB6FKZHewNMgbVg4JpUKYT+3Bgvx4+hUwtDUoOmBKWHYG60P4DJ4DXSWTqusM8miz9jvBzZAfM2pFesSWGPW6G4xjZf91ZDs5HOPEBZkngQXgpeg8bXbFLorcJnW9vNCsp15uBoPws6zxwehAnQi1kb/EnYAaVBz0A7ffCtS51WIigbaFx07XcDU2Op85txFUaF3TOQzrwiYSYu95fQJoZ0shvKBSrlHIxP9TMfPCipg0oFo8dheXTtd4aP4C9oHPA8bIY+oa7+Ehga3VsTDCfCfDNQDPkkOpPBUAMvwzAoZrLIViaeype4nODgOfApLM7mZoKOqdXnsng+7khw5OFaCZ/B89DVmcXsuoIn3xLIh6N7mN094aD4Lr8I7p+BZCnU8FunULuPJbl2rQ1/7c9wHH4C39zl4LN2BLKc7RKfBEudh8EkklUaFoFvwftgXvc2HAD154NFoP6OwY1yiMDm28tkmC58zcu+MvIm+FhchD7gm9wdqqLvFdoCQyAPlrs+JAvBg2hxWAVWLxYR+rY0/gd6ZoHNsS/ANjBpGFhjc/Qf0AusML4Ggw2Av8FZuFr7oDSwT+lhMKDXza921mDadc4Cm+K2gu+uMzfwTjBRaOiJduajYQT0hbPgNfOR92lsHNjltypxlgY26/0O6dZlgS+xJMXXg76BXwf3zX2vApfaa2R5q7OzN7RTfcva0sD+d2EwA1vo234HXoFDhXy+ZS7J5y1z1hC4WM7QnwZPgAdPJ87YQ/MNuGTOeGWoq/80+Fq5Oq6CFcx6UP9V8D0fbkC+3vO+YXqvJZe7DnPiTB+CxKexAAAAAElFTkSuQmCC",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"s5_bHvyJ-it5G9zoQow-CQ\",\"k\":\"GUEIHbJXspZDyVeD06LFzQ\"}],\"type\":\"temporary\"}"
+        },
+        {
+          "name": "DHE",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_wl/DHE.mpd",
+          "image": "https://cdn.futurenew.xyz/images/dhe.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"dlDd-1Niu3IWJYc9JGtxzA\",\"k\":\"UcKDkYOx9QVtlP4LdeRGYg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "SONY MOVIES",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/Sony_Movies/SA_Live_dash_enc_wl/Sony_Movies.mpd",
+          "image": "https://cdn.futurenew.xyz/images/sonymovies.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"92Iz5W1RAoZ8K8VBiHGtBw\",\"k\":\"FrOPD3p5ezu4eYPr9YeYFA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CINECANAL",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc_wl/CinecanalHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/cinecanal.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mLMaChJdge9MnK8Wg_VURA\",\"k\":\"fsPfB3H-hsn0BXZc6ftSBA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "SPACE",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_wl/Space.mpd",
+          "image": "https://cdn.futurenew.xyz/images/space.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"MmhLZ1Q50Selqx4HsqVyQg\",\"k\":\"4Wn2Jd9HXW0cAUzKGlKiUQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TNT",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_wl/TNT_HD_Arg.mpd",
+          "image": "https://cdn.futurenew.xyz/images/tnt.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YdmHPh8oHNAiOsznc8wIsA\",\"k\":\"PdoNiezjfCRO2Mt-kBU1VQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TNT SERIES",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_wl/TNTSeries.mpd",
+          "image": "https://cdn.futurenew.xyz/images/tntseries.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"YTo9wlsdPtQYbio5msfwgQ\",\"k\":\"e1zxz3rtpEY1m7zSO1dxtg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CINE AR",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_wl/INCAA_Tv.mpd",
+          "image": "https://cdn.futurenew.xyz/images/cinear.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ehGji3jypEOAvzlUsWkGbg\",\"k\":\"ToTnOi3fyoyPRzAjAz4GSQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CINEMAX",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_wl/Cinemax.mpd",
+          "image": "https://cdn.futurenew.xyz/images/cinemax.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_YTbGDhmkWsVNmtIUuaNqA\",\"k\":\"EgGx8O0pmkbd_6u1yFU3kw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "VOLVER",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_wl/Volver.mpd",
+          "image": "https://cdn.futurenew.xyz/images/volver_new.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"J33xy-K8htVVeA1Z638nQA\",\"k\":\"MGywJ0rNV79wx-r8ZD67TQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FX",
+          "url": "https://cdn.cvattv.com.ar/out/v1/FXHD/SA_Live_dash_enc_wl/FXHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/fx.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lwGTLKsOSqO4B4F21dVN0A\",\"k\":\"doGQJliLFv1wg0NrK5RIXg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "STAR CHANNEL",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_wl/FOXHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/starchannel.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"_BQZCsyHLiBPOXPHW2Q58g\",\"k\":\"NM8TiZ2ySKeqLB3rKI117w\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "SONY CHANNEL",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_wl/SonyHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/sonychannel.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wOodPOxftzxnsHRjv0kMQA\",\"k\":\"tT8FbesGInfRsgGmCG6Y9g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "WARNER CHANNEL",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_wl/WarnerHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/warnerchannel.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"B87wKkFlFkLMNZRsGw-8SQ\",\"k\":\"vlc0LHz25wqoUcDRB00RwA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL CHANNEL",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_wl/Universal_Channel_HD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/universalchannel.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4Lt9tw3u5r6biBpb0a9kUw\",\"k\":\"iMcvhiap16nKIi_tYuHmrw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "AXN",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_wl/AXNHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/axn.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lbnIhKl0R-yrQj0FTMSZqg\",\"k\":\"9XSZ8UMrtw6cuaDr--8tpA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "TCM",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_wl/TCM.mpd",
+          "image": "https://cdn.futurenew.xyz/images/tcm.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"1A6rNt_3QUmExvUbcXS-DA\",\"k\":\"67JZp_dr53n43X1o9V4AmA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "EUROPA EUROPA",
+          "url": "https://cdn.cvattv.com.ar/out/v1/Europa_Europa/SA_Live_dash_enc_wl/Europa_Europa.mpd",
+          "image": "https://cdn.futurenew.xyz/images/europaeuropa.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ArpOS3aeTBSCUOw_LyBuRg\",\"k\":\"ZZUw4hfRTCSCaJm976xI6Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "STUDIO UNIVERSAL",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_wl/Studio_Universal.mpd",
+          "image": "https://cdn.futurenew.xyz/images/studiouniversal.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2-XZzgF0AHb9yVy8AlO57g\",\"k\":\"2KjvQ0v_roDkXiA_b39JiA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "A&E",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_wl/AEHD.mpd",
+          "image": "https://cdn.futurenew.xyz/images/a&e.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RtTdpj7fIh2uhqMsbhyP2w\",\"k\":\"QNZsuAbsH6D1ZJ2ACkPsRA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "AMC",
+          "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc_wl/AMC.mpd",
+          "image": "https://cdn.futurenew.xyz/images/newamc.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"MP_nondlN-jOxwINeDU2-Q\",\"k\":\"e08yNXashdiTj1vrwkUTHA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "AMC SERIES",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/AMC_Series/SA_Live_dash_enc_wl/AMC_Series.mpd",
+          "image": "https://cdn.futurenew.xyz/images/amc_series.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7t5NaLjwLSb-P1nSEltW4g\",\"k\":\"LwZOHEK9LsEryY0C62Lwbg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "A3 SERIES",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_wl/A3_Series.mpd",
+          "image": "https://cdn.futurenew.xyz/images/a3series.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"aqUogAirOxwBzLL8Vb3RUQ\",\"k\":\"C-BJUnzLxb-txC94RaXTXg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "COMEDY CENTRAL",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_wl/ComedyCentral.mpd",
+          "image": "https://cdn.futurenew.xyz/images/comedycentral.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eX65fRG37jHn2kViSEZIeQ\",\"k\":\"k6VOI9b7Xn0FQgonmSOYjA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "A3 CINE ( FHD )",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_wl/A3_Cine.mpd",
+          "image": "https://cdn.futurenew.xyz/images/a3cine.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"X9I9eLlPXdelAgVHvxZz0w\",\"k\":\"KeTRbSANSspUN9FEuFOOkg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FILM & ARTS",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc_wl/Film_Arts.mpd",
+          "image": "https://cdn.futurenew.xyz/images/filmyarts.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RM7Q-NOYJzVkkN_bJk2aCw\",\"k\":\"rwIjNfq80-LfkWsrU642hQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.ar",
+            "Referer": "https://portal.app.flow.com.ar/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Todo Cine",
+          "url": "https://amg00658-amg00658c94-canelatv-international-6085.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg00658-canelamediafast-todocineta-canelatvinternational/cb7d3e167b706f869acb3f6cd6f740a0d1576281573ad0363bfb5ec52493195383bba4c4e748ec690fbd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05947c66cbfb10248854c14b1d30090cb19b887ca5898519270f217ce90a189850d84d09635b456b3325815207fcfd334929b09b5d8cb3138c9707142442c8cc992ee5e0384524d58f4fab9d40f9610cf87208d6179af16c202ee538e62ae7be18b0af6aee98b471760a0895d627ff3a8f4d9ab377ebf60aef6a489217fcea54021179e6f8e277179fa8dd91d83cb0185892b8ab86d182aff9841e9f0d8e8eebd8a1acc739f9ff7c169182009660b852fcaf00bf208ff29e599495e362751bea545d68fcf5f337b3df7ea31da0617b5e49e90e01e29c3761a59f13ab531606fc3247c7d974e93fb6c36fe4c6581302bf25b30bf4efdb62be0a6dce0745fdfbcc251a50585d60edce270ca075d0958c3984456434d42c4f77608421da927caf290941d6401fce7f2edd45c2a0206024000f9868d12b5af9a427775cd5e3212107a75b825e463b57421ebb9427fa9ce2846c76f003fe1a23149536297bac9ebe5e5eb347bfb4ead87541c344c77b573242b6bc1bf8e588758011e2809e80b15780edbd936c7b4699c0947c8e5cb358798286a42c8f505480a533c42189c9566c357ec92529b8ecf52c3fcb2334c9739b03bddffbad341f7f788cb430edfff194927dfe42ecb7722d0049405bc922188fe055d5c0b494694da0fbf47ef8bd3870a8a3ca14a347be853b288ace6853118b4c70a7b1821613a531e362005b3df95430578e7b36ea67eeef95aa4471b626b1590d24e0ec8b8372f9d337f72acef9ed8fa845046b81b9e1ffe690da2581a3da19d6898e49cc7bad63f1a50a3f5c12a9cae8786c0d3b0565d037e3f96c41f1837ef2ffe8808f6be5f1bcb8c98eece61877f8164efd0564f46fa2d7ada30511bded8c93325ce8a20c580a48b91/144/1920x1080_4362312/index.m3u8",
+          "image": "https://pbs.twimg.com/profile_images/1737898344494559232/k-aAXjbx_400x400.jpg"
+        },
+        {
+          "name": "Los clasicos del terror de los 80 / 90",
+          "url": "https://live20.bozztv.com/giatvplayout7/giatv-211420/tracks-v1a1/mono.ts.m3u8",
+          "image": "https://thumbs.dreamstime.com/b/cartel-de-pel%C3%ADcula-terror-131222698.jpg"
+        },
+        {
+          "name": "Los clasicos del terror de los 80 / 90",
+          "url": "http://tecnotv.club/46vg/phpcode/plutotv.php?c=609059dc63be6e0007b4eca6/master.m3u8",
+          "image": "https://thumbs.dreamstime.com/b/cartel-de-pel%C3%ADcula-terror-131222698.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HBO",
+      "stations": [
+        {
+          "name": "HBO",
+          "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc_wl/HBOHD.mpd",
+          "image": "https://i.ibb.co/zfmjcgb/HBO.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"sFnNv8eHoy9X-8tuUtvAoA\",\"k\":\"UGSNeAZiTrjVP7KuzIsa8Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO 2",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc_wl/HBO_2.mpd",
+          "image": "https://i.ibb.co/3W8bTfN/f94c94499c9807fa63343feb1623a250.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kb1vgp0GSYwh4hKs8cX6Bw\",\"k\":\"FIo1goRonkCyIHTCRMU12g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Family",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc_wl/HBO_Family.mpd",
+          "image": "https://i.ibb.co/ynkwLW3/hbofam.webp",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l2j0I-USHe0jY39UJFUGog\",\"k\":\"q9KNzoPILSbVlTtBbbDlKg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Mundi",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_wl/HBO_Mundi.mpd",
+          "image": "https://i.ibb.co/9sFvgPb/HBO-MUNDI.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"VvwUVJIQlZDYLPj2DFXU9Q\",\"k\":\"xxMkFXlDbg1f4kgLbrex_Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Pop",
+          "url": "https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_wl/HBO_POP.mpd",
+          "image": "https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"eCvmqgXi5T8fB2msITNZdQ\",\"k\":\"vFTv4k68YSfe4mRwTN1UOw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Plus",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_wl/HBO_Plus.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wceAZHqY1Gw-WGfPIE0Smg\",\"k\":\"AG1E8CvlXCjzS5EG15qCqQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Signature",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_wl/HBO_Signature.mpd",
+          "image": "https://i.ibb.co/kJVwNbQ/hbosig.webp",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"SRjTvzmaI36O4GXrPr9zJw\",\"k\":\"dHF5KWrjcOm4dGoJkEtThQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO Xtreme",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_wl/HBO_Extreme.mpd",
+          "image": "https://i.ibb.co/xG6HY4G/30.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"scUYxIWbHqwaxAndenEhVQ\",\"k\":\"2a4p1jbhQHTaEDYHZe5MtQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "UNIVERSAL",
+      "stations": [
+        {
+          "name": "Universal TV",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_wl/Universal_Channel_HD.mpd",
+          "image": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"4Lt9tw3u5r6biBpb0a9kUw\",\"k\":\"iMcvhiap16nKIi_tYuHmrw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Studio Universal",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_wl/Studio_Universal.mpd",
+          "image": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2-XZzgF0AHb9yVy8AlO57g\",\"k\":\"2KjvQ0v_roDkXiA_b39JiA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Universal Cinema",
+          "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_enc_wl/Universal_Cinema.mpd",
+          "image": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bCuio5HC7cWimQhBxcMGNg\",\"k\":\"iSBhuH8HxtgW8jShMow0IA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Universal Comedy",
+          "url": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_wl/Universal_Comedy.mpd",
+          "image": "https://i.ytimg.com/vi/wRjdWi0RxWo/sddefault.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"G1F659f5khn1bdSoThW4HA\",\"k\":\"M5xOZoVH2Dw1wy6XoKFFPg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Universal Crime",
+          "url": "https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_wl/universal_Crime.mpd",
+          "image": "https://i.ibb.co/bR7xSJJv/1684337272706-universal-crime.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"2KIUK2bVS1gWWXPhN7708A\",\"k\":\"8wkAvqtzfQ85tUPlg0S6Lw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Universal Premiere",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_wl/Universal_Premiere.mpd",
+          "image": "https://i.ibb.co/14z62h2/Universal-Premiere-2021.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"kJ63WJMFzQDhtoJ_rddEEQ\",\"k\":\"Q6nlVwE2lDTfSJIkDZdBwg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Universal Reality",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_wl/Universal_Reality.mpd",
+          "image": "https://i.ibb.co/LGyMZY7/universal-reality-logo-png-seeklogo-527123.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"jruVNdehmih2odFQ_mE8iA\",\"k\":\"wa1gmpgx9WEm88dv-8TKBA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "CULTURALES",
+      "stations": [
+        {
+          "name": "History",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_wl/HistoryHD.mpd",
+          "image": "https://i.ibb.co/cSf474qK/History-Logo-svg.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"sQ5I6wyZQAFeKN_nY3tI-g\",\"k\":\"TfJS-V3nCSO3NvP2WYIctw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "History 2",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/History_2/SA_Live_dash_enc_wl/History_2.mpd",
+          "image": "https://static.flow.com.ar/images/698/CH_LOGO/60/40/0/0/89419560072823.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bgjqhc2_XT0gidXppTSdjA\",\"k\":\"zNsT1tR3dYlEUqBinJhrZw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Animal Planet",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_wl/AnimalPlanet.mpd",
+          "image": "https://i.ibb.co/4nr56B4Y/2018-Animal-Planet-logo-svg.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"vTORzww1aS26yha3YWniEQ\",\"k\":\"DdOSSgewpAUfbbHVfnWnAA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "A&E",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_wl/AEHD.mpd",
+          "image": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"RtTdpj7fIh2uhqMsbhyP2w\",\"k\":\"QNZsuAbsH6D1ZJ2ACkPsRA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Channel",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_wl/DiscoveryHD.mpd",
+          "image": "https://i.ibb.co/bNnyx0B/3328310f-6d31-30a1-be18-d17a7ecb95cd.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"9Vrsd12SzqQeoPgLhhVJWg\",\"k\":\"iSfzJpMcalrzjQzXzXRDOA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery H&H",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc_wl/DiscoveryHomeHealthHD.mpd",
+          "image": "https://i.ibb.co/gjWGgjX/hh.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"bivCs8lGTEB69tBVm7Xh6g\",\"k\":\"Q-xeaYtvYKD0HWBJCaJRhg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery ID",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/ID/SA_Live_dash_enc_wl/ID.mpd",
+          "image": "https://i.ibb.co/svW76dGF/6065f6b54c6c7c38bc2c1c5f-investigation.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"KmCUiBoUhtyKPv5r6fIgFw\",\"k\":\"3bhhOlp0mpPZu8RFWSmN4A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Science",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_wl/Discovery_Science.mpd",
+          "image": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"yfzZcJs4BYyiyQuD6BvAOQ\",\"k\":\"-3NuZcKnJImH5Yoqfm1Jpg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Theater",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_wl/Theater_HD.mpd",
+          "image": "https://i.ibb.co/TD6cKXF0/2015-Discovery-theater-HD-logo-svg.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"524N2V8hh3cKb6n3LXYA9Q\",\"k\":\"vKsw2tVSKPzQqJpTS3tPBA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery TLC",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/TLC/SA_Live_dash_enc_wl/TLC.mpd",
+          "image": "https://i.ibb.co/rQVYsy9/R-1.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"Jxj9nqNJKkd72RxR00gYXQ\",\"k\":\"l51U5Gfvyse16hjVD3TuCA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Turbo",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc_wl/DiscoveryTurbo.mpd",
+          "image": "https://i.ibb.co/M8C0j8Q/India-Tvd3227d-discovery-turbo.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"D1Xsxkhryun9P1MnH8Fq2A\",\"k\":\"7rffWWn8WLV3Hy87x1Aq1Q\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery World",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_wl/Discovery_World_HD.mpd",
+          "image": "https://a-qiio.onrender.com/webp/logos/disworld.webp",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"MeS4q5m1p714EoNHAYJd2Q\",\"k\":\"_p5ujCKw0zuqrolbnQMXqg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "E-Entertaiment",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc_wl/E_Entertainment_Television.mpd",
+          "image": "https://genterosarevista.wordpress.com/wp-content/uploads/2011/05/e_entertainment_tv.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"GU2W6b2QCbHqzFKeMmBWCg\",\"k\":\"w3pQ1oSM5tPczgwV0ie54A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HGTV",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_wl/Home_and_Garden.mpd",
+          "image": "https://static.flow.com.ar/images/8417/CH_LOGO/60/40/0/0/60015425071531.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"-wuFDITO3lIGHPb4T85sww\",\"k\":\"895cidBs6Zp2vfIHA9o8wg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "National Geographic",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_wl/NatGeoHD.mpd",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQan5VfBuRGR1U5BbT6m7dNl6y478fXVxixOQ&s",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"c3NcF0BGTJnMo_-0UMFYEQ\",\"k\":\"uSQdCDyQL6YV5PeACBrpJg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Sun Channel",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_wl/Sun_Channel.mpd",
+          "image": "https://static.flow.com.ar/images/1026/CH_LOGO/60/40/0/0/8597848007771.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mXd25UVO0sINHPgs8R55tA\",\"k\":\"QDVZr4bnuLV48ZIF-c3G8A\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "El Gourmet",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_wl/Gourmet.mpd",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"i95PyndXxsnxWnutpo3yug\",\"k\":\"ibp4WE92EvD8zGLSYENDPg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Food Network",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Food_Network/SA_Live_dash_enc_wl/Food_Network.mpd",
+          "image": "https://logowik.com/content/uploads/images/868_foodnetwork.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"lNPvBomIr750eHhn8_UFxQ\",\"k\":\"YmS2OjNUj0YyfOgkEnhBug\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "LOVE NATURE",
+          "url": "http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd",
+          "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/02/LoveNature_logo.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"l5HA5vcrSl6s-L3fpSkCCQ\",\"k\":\"6mQ3CE9sBVx8hW-GNh6G-g\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HOLA TV",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_wl/Hola_TV.mpd",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/33795330072670.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"TbmZTSV49KX5Dbq4KwMF0w\",\"k\":\"aKSNRVdpDVTugrZ1l5k0kQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Lifetime",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_wl/Lifetime.mpd",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt3kxp3n7Fk99OTOcGIXEcOZbEvkou7k8UUQ&s",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"wOLVZQVRUj7pTbXcGooT1A\",\"k\":\"1VXyWzXY8yz576sowkyhug\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ADULTOS ( XXX )",
+      "stations": [
+        {
+          "name": "VENUS",
+          "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c6eds/Venus/SA_Live_dash_enc_wl/Venus.mpd",
+          "image": "https://www.personal.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/44.png",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"JlCXsa45jCRvXL70HTtHQw\",\"k\":\"FGi_JHXu8gBGDUXrjCB4jw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "PLAYBOY",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc_wl/Playboy.mpd",
+          "image": "https://dl.dropbox.com/scl/fi/7feu1a3ikd6r8r77pgses/playboy.jpg?rlkey=02u5uorraf4qldh8dxqc43vyh&dl=1",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ag6-35uEPsqmFe7uUI4i7w\",\"k\":\"JTAdHfz_9EGXPmeqxOsNcg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "SEX EXTREME",
+          "url": "https://chromecast.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc_wl/Sextreme.mpd",
+          "image": "https://www.totalmedios.com/img/noticias/2011/05/Noticia11837__236x150.jpg",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"M3eLQZ5z36jNwxlf8b_CyA\",\"k\":\"ESPSikuVhi-twYKJV-SOkw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "MILF",
+          "url": "http://live.adultiptv.net/milf.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BIG DICK",
+          "url": "http://live.adultiptv.net/bigdick.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BIG TITS",
+          "url": "http://live.adultiptv.net/bigtits.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "FETISH",
+          "url": "http://live.adultiptv.net/fetish.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "PORNSTAR",
+          "url": "http://live.adultiptv.net/pornstar.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BIG ASS",
+          "url": "http://live.adultiptv.net/bigass.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "INTERRACIAL",
+          "url": "http://live.adultiptv.net/interracial.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "LATINA",
+          "url": "http://live.adultiptv.net/latina.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "POV",
+          "url": "http://live.adultiptv.net/pov.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BLOWJOB",
+          "url": "http://live.adultiptv.net/blowjob.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "TEEN",
+          "url": "http://live.adultiptv.net/teen.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "HARDCORE",
+          "url": "http://live.adultiptv.net/hardcore.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "CUCKOLD",
+          "url": "http://live.adultiptv.net/cuckold.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "THREESOME",
+          "url": "http://live.adultiptv.net/threesome.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "RUSSIAN",
+          "url": "http://live.adultiptv.net/russian.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "LESBIANAS",
+          "url": "http://live.adultiptv.net/lesbian.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "ROUGH",
+          "url": "http://live.adultiptv.net/rough.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "ANAL",
+          "url": "http://live.adultiptv.net/anal.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "COMPILATION",
+          "url": "http://live.adultiptv.net/compilation.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BRUNETTE",
+          "url": "http://live.adultiptv.net/brunette.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "BLONDE",
+          "url": "http://live.adultiptv.net/blonde.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "GAYS",
+          "url": "http://live.adultiptv.net/gay.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        },
+        {
+          "name": "ASIAN",
+          "url": "http://live.adultiptv.net/asian.m3u8",
+          "image": "https://i.postimg.cc/pTgXVjhq/5073820716067040688.jpg"
+        }
+      ]
+    }
+  ]
+}
